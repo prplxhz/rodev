@@ -20,6 +20,12 @@ export default defineConfig({
         ]
       },
       {
+        text: 'Games',
+        items: [
+          { text: 'Motion Games Studio', link: 'https://www.roblox.com/groups/33386979/Motion-Games-Studio' }
+        ]
+      },
+      {
         text: 'Projects',
         items: [
           { text: 'Overview', link: '/projects' },
