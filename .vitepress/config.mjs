@@ -20,9 +20,11 @@ export default defineConfig({
         ]
       },
       {
-        text: 'Games',
+        text: 'Links',
         items: [
-          { text: 'Motion Games Studio', link: 'https://www.roblox.com/groups/33386979/Motion-Games-Studio' }
+          { text: 'Top Dev', link: 'https://www.roblox.com/groups/33875607/Top-Dev' },
+          { text: 'Motion Games Studio', link: 'https://www.roblox.com/groups/33386979/Motion-Games-Studio' },
+          { text: 'MotionTech', link: 'https://www.roblox.com/groups/33386989/MotionTech' },
         ]
       },
       {
