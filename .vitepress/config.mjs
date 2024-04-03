@@ -20,19 +20,19 @@ export default defineConfig({
         ]
       },
       {
-        text: 'Links',
-        items: [
-          { text: 'Top Dev', link: 'https://www.roblox.com/groups/33875607/Top-Dev' },
-          { text: 'Motion Games Studio', link: 'https://www.roblox.com/groups/33386979/Motion-Games-Studio' },
-          { text: 'MotionTech', link: 'https://www.roblox.com/groups/33386989/MotionTech' },
-        ]
-      },
-      {
         text: 'Projects',
         items: [
           { text: 'Overview', link: '/projects' },
           { text: 'RoDNS', link: 'https://rodns.top' },
           { text: 'RoAPI', link: 'https://roapi.top' }
+        ]
+      },
+            {
+        text: 'Links',
+        items: [
+          { text: 'Top Dev', link: 'https://www.roblox.com/groups/33875607/Top-Dev' },
+          { text: 'Motion Games Studio', link: 'https://www.roblox.com/groups/33386979/Motion-Games-Studio' },
+          { text: 'MotionTech', link: 'https://www.roblox.com/groups/33386989/MotionTech' },
         ]
       }
     ],
