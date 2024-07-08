@@ -23,8 +23,8 @@ export default defineConfig({
         text: 'Projects',
         items: [
           { text: 'Overview', link: '/projects' },
-          { text: 'RoDNS', link: 'https://rodns.top' },
-          { text: 'RoAPI', link: 'https://roapi.top' }
+          { text: 'RoDNS', link: 'https://dns.rodev.top' },
+          { text: 'RoAPI', link: 'https://api.rodev.top' }
         ]
       },
             {
